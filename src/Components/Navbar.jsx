@@ -23,14 +23,14 @@ function Navbar() {
         </button>
 
         <ul className="hidden text-lg sm:flex">
-          {/* <li>
+          <li>
             <Link
               to={"/about"}
               className="ml-8 text-primary hover:text-darker-primary transition 150 ease-in-out"
             >
               About
             </Link>
-          </li> */}
+          </li>
           <li>
             <Link
               to={"/resume"}

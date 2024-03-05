@@ -22,6 +22,15 @@ function Project() {
         development, but we have managed to add user authentication by using Firebase Auth service."
       />
       <ProjectInfo
+        title="SignalR Realtime Chat"
+        link="#"
+        stack="Azure SignalR | .NET | Terraform | Azure Function"
+        description="A realtime chat application that utilises the Azure SignalR service to create the realtime functionality. 
+        The frontend is coded using Next.js (React Framework) with an Azure functio to send messages to the SignalR service and 
+        relay them onto any user locked in to the channel. The Azure Infrastructue was created with Terraform and the Azure Function 
+        uses C#."
+      />
+      <ProjectInfo
         title="Techspo Site"
         link="https://github.com/Lesmol/Techspo_Website"
         stack="Azure SQL Database | ASP.NET | C#"

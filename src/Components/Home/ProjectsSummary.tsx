@@ -13,6 +13,10 @@ function ProjectsSummary() {
         link="https://github.com/Lesmol/varsity_registration"
       />
       <ProjectsItem
+        title="SignalR Realtime Chat"
+        link="#"
+      />
+      <ProjectsItem
         title="Techspo Website"
         link="https://github.com/Lesmol/Techspo_Website"
       />
